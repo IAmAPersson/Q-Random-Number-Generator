@@ -6,7 +6,6 @@ using Microsoft.Quantum.Simulation.Simulators;
 using Quantum.QSharpRandGen;
 
 
-[SuppressMessage("ReSharper", "IdentifierTypo")]
 // ReSharper disable once CheckNamespace
 class Driver
 {
@@ -21,7 +20,6 @@ class Driver
     }
 }
 
-[SuppressMessage("ReSharper", "IdentifierTypo")]
 [SuppressMessage("ReSharper", "InconsistentNaming")]
 class QuantumRandom
 {

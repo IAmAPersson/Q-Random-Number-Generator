@@ -13,7 +13,7 @@
 
     operation Generate () : Result[] {
         mutable res = new Result[32];
-
+        
         using (bits = Qubit[8]) {
             for (i in 0 .. 3) {
                 for (j in 0 .. 7) {
