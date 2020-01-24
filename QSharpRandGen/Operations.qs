@@ -21,7 +21,7 @@
                 }
 
                 for (j in 0 .. 7) {
-                    set res w/= i * 8 + j <-  M(bits[j]);
+                    set res w/= i * 8 + j <- M(bits[j]);
                 }
                 
                 Set(bits, Zero);
