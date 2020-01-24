@@ -1,1 +1,1 @@
-# Q-Random-Number-Generator
+# Q\# Random Number Generator
